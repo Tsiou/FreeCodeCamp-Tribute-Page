@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	background-color: white;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #333;
+	
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+li {
+	text-align: left;
+	font-size: 16px;
+}
+
+
